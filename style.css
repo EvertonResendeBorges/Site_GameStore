@@ -1,0 +1,21 @@
+header {
+    background-color: black;
+    height: 10vh;
+    align-content: center;
+}
+
+section {
+    background-color: rgb(85, 82, 82);
+    height: 80vh;
+}
+
+footer {
+    background-color: black;
+    height: 10vh;
+    align-content: center;
+}
+
+p, h1 {
+    color: #fff;
+    text-align: center;
+}
