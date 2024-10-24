@@ -4,18 +4,42 @@ header {
     align-content: center;
 }
 
-section {
+main {
     background-color: rgb(85, 82, 82);
     height: 80vh;
+}
+
+article {
+    display: flex;
+    align-items: center;
 }
 
 footer {
     background-color: black;
     height: 10vh;
     align-content: center;
+    text-align: center;
+    color: #fff;
 }
 
-p, h1 {
+h1 {
     color: #fff;
     text-align: center;
+}
+
+h2 {
+    color: #fff;
+}
+
+img {
+    height: 255px;
+    width: 338px;
+}
+
+.price {
+    color: #fff;
+}
+
+.description {
+    color: #fff;
 }
